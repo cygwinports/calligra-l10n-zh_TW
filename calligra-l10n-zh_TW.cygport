@@ -1,7 +1,7 @@
 inherit kde4
 
 NAME="calligra-l10n-zh_TW"
-VERSION=2.5.3
+VERSION=2.5.4
 RELEASE=1
 CATEGORY="KDE"
-SUMMARY="Calligra Suite  translation files"
+SUMMARY="Calligra Suite Traditional Chinese translation files"
